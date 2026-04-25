@@ -8,6 +8,7 @@ const ALBUM_URL = "https://photos.app.goo.gl/HMGbmAFf7SCpmpN86";
 // Google Photos album on every visit (via a CORS proxy). If the proxy fails
 // — they're flaky free services — we just use this list as the fallback.
 const PHOTO_URLS = [
+  "https://lh3.googleusercontent.com/pw/AP1GczMjB2ULYLcpEcK7NHveZ21YUrxBxk4HgKlC36SjoISqtUFKWIXdrHKDerrCufqSZoRapRSadzWNn-rHlcWcGeVN4VbkpTqcvK3VSfU8RXiwBP_-MiA",
   "https://lh3.googleusercontent.com/pw/AP1GczN8TBkECAQ1IGCaV0E9NKiQD6YMZMjbK-fS0VZAMt7MvKWlZYXF5O84LnMYuRKwA3bhaa5naBfWSnfmibdYRpe1GW-ncycarqvTqQNErO0kfnjtl5U",
   "https://lh3.googleusercontent.com/pw/AP1GczNLWUjelDQWZzRmJcwEmCVLBd952W5lKpFFG9whOCMmUdzT-k8HNG-I9y-G6Q1p4obPXHXq_rcbK-YPFdFkVWEToJ4qNCwOjOJIpE1pi3zKr3evz28",
   "https://lh3.googleusercontent.com/pw/AP1GczNa73GDFcN4gqPoX7hh77r6OrLDpbX1B6N9OskczkLYxBq_1dDhSFm3cRm2B1av1Dfp64bmgsemfuHV-hZZZQc2NJxL1xNqrlzzLq3JHx9bS7DPwRI",
