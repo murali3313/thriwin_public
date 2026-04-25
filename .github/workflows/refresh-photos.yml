@@ -18,7 +18,7 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     env:
-      ALBUM_URL: "https://photos.app.goo.gl/HMGbmAFf7SCpmpN86"
+      ALBUM_URL: "https://photos.app.goo.gl/QmVZnMwM94ZL4ix37"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
